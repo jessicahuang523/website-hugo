@@ -1,0 +1,4 @@
+To start the website on local server, type in terminal:
+```
+hugo server
+```
