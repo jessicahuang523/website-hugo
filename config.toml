@@ -39,7 +39,7 @@ url = "https://de.linkedin.com/"
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://jessicahuang523.github.io/"
+url = "https://github.com/jessicahuang523"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
